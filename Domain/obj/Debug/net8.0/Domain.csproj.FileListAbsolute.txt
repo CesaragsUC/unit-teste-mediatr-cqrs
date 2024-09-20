@@ -1,0 +1,12 @@
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\bin\Debug\net8.0\Domain.deps.json
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\bin\Debug\net8.0\Domain.dll
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\bin\Debug\net8.0\Domain.pdb
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\obj\Debug\net8.0\Domain.dll
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\obj\Debug\net8.0\refint\Domain.dll
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\obj\Debug\net8.0\Domain.pdb
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Domain\obj\Debug\net8.0\ref\Domain.dll

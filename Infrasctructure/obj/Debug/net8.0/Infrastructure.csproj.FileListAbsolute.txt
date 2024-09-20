@@ -1,0 +1,17 @@
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\bin\Debug\net8.0\Infrastructure.deps.json
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\bin\Debug\net8.0\Infrastructure.dll
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\bin\Debug\net8.0\Infrastructure.pdb
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\bin\Debug\net8.0\Domain.dll
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\bin\Debug\net8.0\Domain.pdb
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\Infrastructure.dll
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\refint\Infrastructure.dll
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\Infrastructure.pdb
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\ref\Infrastructure.dll
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+G:\DevProjetos\Dotnet8\Apis\mediatr-unit-test\Api\Infrasctructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
